@@ -49,16 +49,16 @@ Dashboard Preview
 
 Dashboard Page 1
 
-"Nextel Churn & Risk Analytics Dashboard" (dashboard-page-1.PNG)
+![Nextel Churn & Risk Analytics Dashboard](./dashboard-page-1.PNG)
 
 Dashboard Page 2
 
-"Nextel Behavioural Insights & Retention Strategy Dashboard" (dashboard-page-2.PNG)
+![Nextel Behavioural Insights & Retention Strategy Dashboard](./dashboard-page-2.PNG)
 
 Insights & Recommendations — Page 1
 
-"Business Insights and Strategic Recommendations - Overview Analysis" (insights-recommendations-1.PNG)
+![Business Insights and Strategic Recommendations - Overview Analysis](./insights-recommendations-1.PNG)
 
 Insights & Recommendations — Page 2
 
-"Business Insights and Strategic Recommendations - Retention Analytics" (insights-recommendations-2.PNG)
+![Business Insights and Strategic Recommendations - Retention Analytics] (./insights-recommendations-2.PNG)
