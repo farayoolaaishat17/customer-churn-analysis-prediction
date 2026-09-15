@@ -28,9 +28,13 @@ Tools & Technologies
 Project Files
 
 "Customer Churn Analysis EDA" - Exploratory data analysis and visualization
+
 "Churn Prediction ML" - Machine learning analysis and churn prediction
+
 "Telecom Churn SQL" - SQL queries and analytical views
+
 "Customer Churn Cleaned with Risk Levels.csv" - Cleaned dataset used for analysis
+
 "Customer Churn Dashboard" - Power BI dashboard presenting key insights
 
 Key Areas of Analysis
