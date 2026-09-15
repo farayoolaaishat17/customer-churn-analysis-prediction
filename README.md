@@ -61,4 +61,4 @@ Insights & Recommendations — Page 1
 
 Insights & Recommendations — Page 2
 
-[Business Insights and Strategic Recommendations - Retention Analytics](./insights-recommendations-2.PNG)
+![Business Insights and Strategic Recommendations - Retention Analytics](./insights-recommendations-2.PNG)
