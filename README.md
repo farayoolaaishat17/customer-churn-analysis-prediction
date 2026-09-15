@@ -1,8 +1,8 @@
-Customer Churn Analysis & Prediction
+Nextel Customer Churn Analysis & Prediction
 
 Project Overview
 
-This project analyzes customer churn in a telecommunications company to understand customer behavior and identify patterns associated with churn.
+This project analyzes customer churn in a Nextel telecommunications company to understand customer behavior and identify patterns associated with churn.
 
 The project covers exploratory data analysis, data preparation, SQL analysis, machine learning, and Power BI visualization.
 
