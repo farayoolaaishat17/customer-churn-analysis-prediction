@@ -44,3 +44,21 @@ The analysis focuses on customer characteristics, service usage, contract inform
 Project Outcome
 
 The project combines data analysis, SQL, machine learning, and visualization to better understand customer churn and present findings that can support customer retention efforts.
+
+Dashboard Preview
+
+Dashboard Page 1
+
+"Nextel Churn & Risk Analytics Dashboard" (dashboard-page-1.PNG)
+
+Dashboard Page 2
+
+"Nextel Behavioural Insights & Retention Strategy Dashboard" (dashboard-page-2.PNG)
+
+Insights & Recommendations — Page 1
+
+"Business Insights and Strategic Recommendations - Overview Analysis" (insights-recommendations-1.PNG)
+
+Insights & Recommendations — Page 2
+
+"Business Insights and Strategic Recommendations - Retention Analytics" (insights-recommendations-2.PNG)
